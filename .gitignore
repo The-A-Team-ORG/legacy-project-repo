@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+node_modules
+config/config.env
+
+client/build
